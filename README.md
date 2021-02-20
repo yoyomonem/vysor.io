@@ -46,5 +46,5 @@ This was licensed by Youssef Land. Download Vysor for Android on [Google Play St
 
  * For Windows: [Windows](http://vysornuts.clockworkmod.com/download/win).
  * For macOS: [macOS](http://vysornuts.clockworkmod.com/download/mac).
- * For GitHub/Linux: [Linux](https://github.com/koush/vysor.io/releases).
+ * For GitHub/Linux: [GitHub/Linux](https://github.com/koush/vysor.io/releases).
  * Or Android APK.
