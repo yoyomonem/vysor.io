@@ -40,3 +40,11 @@ Despite being the third version, this is the first real major revision of Vysor.
 7. Vysor now has a system tray that lists connected devices.
 8. Native apps now have a full frameless window option. Pin the title bar and remove the navigation keys to have a bare window with only the device screen.
 9. Vysor can now be embedded into other websites via iframe. This can be useful for setting up presentations or testing tools. Url format: https://app.vysor.io/#/device/[serial-number]
+
+## Licensed by Youssef Land, but made by Google
+This was licensed by Youssef Land. Download Vysor for Android on [Google Play Store](play.google.com), or install it using [Vysor Online](vysor.io) and choose:
+
+ * For Windows: [Windows](http://vysornuts.clockworkmod.com/download/win).
+ * For macOS: [macOS](http://vysornuts.clockworkmod.com/download/mac).
+ * For GitHub/Linux: [Linux](https://github.com/koush/vysor.io/releases).
+ * Or Android APK.
