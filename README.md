@@ -6,9 +6,9 @@
  * [Mac](http://vysornuts.clockworkmod.com/download/mac)
  * [Linux](https://github.com/koush/vysor.io/releases)
  * [ChromeOS, Browser, Progressive Web App](https://app.vysor.io)
- * Android APK
+   * [Android APK](https://app.vysor.io/Vysor-release.apk)
    * [Google Play Store](https://play.google.com/store/apps/details?id=com.koushikdutta.vysor&hl=en_US)
-   * [Direct Download](https://app.vysor.io/Vysor-release.apk)
+
 
 ![EW9fcJ_UMAEwd03](https://user-images.githubusercontent.com/73924/82156614-00a73900-9831-11ea-9028-caa4e0ef5bf1.jpeg)
 
@@ -47,4 +47,4 @@ This was licensed by Youssef Land, but published by ClockworkMod. Download Vysor
  * For Windows: [Windows download](http://vysornuts.clockworkmod.com/download/win).
  * For macOS: [macOS download](http://vysornuts.clockworkmod.com/download/mac).
  * For GitHub/Linux: [GitHub/Linux to view releases](https://github.com/koush/vysor.io/releases).
- * Or Android APK.
+ * Or [Android APK](https://app.vysor.io/Vysor-release.apk).
