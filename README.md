@@ -1,4 +1,4 @@
-# Vysor - Mirror and Control your Phone
+# Vysor - Mirror and Control your Phone or Tablet
 
 
 # Downloads:
