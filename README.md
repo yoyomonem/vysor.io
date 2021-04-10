@@ -29,7 +29,7 @@ This update adds support for [Android 10's built in Audio Mirroring](https://git
 
 ### v3.0.x - Vysor in the browser ([app.vysor.io](https://app.vysor.io))
 
-Despite being the third version, this is the first real major revision of Vysor. There are innumerable fixes, improvements, and I'm sure bugs. Please report them in the issue tracker.
+Despite being the third version, this is the first real major revision of Vysor. There are innumerable fixes, improvements, and I'm sure there are bugs. Please report them in the issue tracker.
 
 1. Both native and Chrome apps (which were killed) have been completely rewritten to support installation as a progressive web app. Vysor is available in any browser that supports WebUSB.
 2. There's a new video decoder that uses WebAssembly. This is a reliable alternative to the native NaCL and PNaCL decoders that are also available. It can be found in device settings. May resolve black screen issues for some users.
