@@ -47,7 +47,7 @@ This was licensed by Youssef Land, but published by ClockworkMod. Download Vysor
  * For Windows: [Windows download](http://vysornuts.clockworkmod.com/download/win).
  * For macOS: [macOS download](http://vysornuts.clockworkmod.com/download/mac).
  * For GitHub/Linux: [GitHub/Linux to view releases](https://github.com/koush/vysor.io/releases).
- * Or [Android APK](https://app.vysor.io/Vysor-release.apk).
+ * For [Android APK](https://app.vysor.io/Vysor-release.apk).
  
  
  # Downloads
